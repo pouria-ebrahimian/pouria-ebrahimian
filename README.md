@@ -98,10 +98,15 @@ Personal portfolio and case-study site showcasing projects built end-to-end, fro
 
 <br/>
 
-## Get in Touch
+## Connect with Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pouriaebrahimian.info-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://pouriaebrahimian.info)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://pouriaebrahimian.info)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@pouriaekia)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pouriaebrahimian)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pouria_ebrahimian)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8738-5440)
+[![Digitalism.games](https://img.shields.io/badge/Digitalism.games-6E40C9?style=for-the-badge&logo=gamejolt&logoColor=white)](https://digitalism.games/@pouria)
 
 </div>
